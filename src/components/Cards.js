@@ -30,12 +30,11 @@ function Cards() {
         {foundClips && foundClips.length > 0 ? (
           foundClips.map((clip) => (
             <div className='card' key={clip.id}>
-              <a href={clip.url}>
-                <div className='play'>
+              <div className='play'>
+                <a href={clip.url}>
                   <img src={clip.thumbnail} alt='thumbnail' />
-                </div>
-              </a>
-
+                </a>
+              </div>
               <div className='info'>
                 <h1>{clip.title}</h1>
                 <p>{clip.length}</p>
