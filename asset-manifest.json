@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/home-movies/static/css/main.9b48ccb8.css",
-    "main.js": "/home-movies/static/js/main.26aa6b6b.js",
+    "main.js": "/home-movies/static/js/main.7dbecef9.js",
     "static/media/1987DEC22.png": "/home-movies/static/media/1987DEC22.ac063081e600c36b07ba.png",
     "static/media/1986XMAS_1987MAR7_THUMB.png": "/home-movies/static/media/1986XMAS_1987MAR7_THUMB.964575e2899ae5cc26b9.png",
     "static/media/1987JUNE17_1987DEC22.png": "/home-movies/static/media/1987JUNE17_1987DEC22.e8dd522c9827b2972344.png",
@@ -9,10 +9,10 @@
     "static/media/1988JULY20_1988NOV24.png": "/home-movies/static/media/1988JULY20_1988NOV24.e16edd596ccb6ea29536.png",
     "index.html": "/home-movies/index.html",
     "main.9b48ccb8.css.map": "/home-movies/static/css/main.9b48ccb8.css.map",
-    "main.26aa6b6b.js.map": "/home-movies/static/js/main.26aa6b6b.js.map"
+    "main.7dbecef9.js.map": "/home-movies/static/js/main.7dbecef9.js.map"
   },
   "entrypoints": [
     "static/css/main.9b48ccb8.css",
-    "static/js/main.26aa6b6b.js"
+    "static/js/main.7dbecef9.js"
   ]
 }
