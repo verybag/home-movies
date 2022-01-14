@@ -12,7 +12,7 @@ import thumb10 from '../images/thumbnails/1989AUG_1989OCT.png';
 const data = [
   {
     id: 1,
-    title: 'Christmas 1986 - March 1987',
+    title: 'December 1986 - March 1987',
     years: ['1986, 1987'],
     length: '01:32:20',
     thumbnail: thumb1,
@@ -28,6 +28,7 @@ const data = [
     thumbnail: thumb2,
     desc: "Easter. Gina and Eric hunt for eggs. Mom's 26th birthday. Eric's baseball game.",
     people: ['Gina', 'Mom', 'Dad', 'Eric', 'Gram'],
+    url: 'https://youtu.be/SL-55fDzbwU',
   },
   {
     id: 3,
@@ -37,6 +38,7 @@ const data = [
     thumbnail: thumb3,
     desc: "Eric plays baseball. Eric and Gina go swimming. Gina's 2nd birthday. Eric's 8th birthday. Thanksgiving. Eric sings in the school play (part 1).",
     people: ['Mom', 'Eric', 'Gina', 'Dad', 'Gram'],
+    url: 'https://youtu.be/RNAwiLwHRWA',
   },
   {
     id: 4,
@@ -56,6 +58,7 @@ const data = [
     thumbnail: thumb5,
     desc: "Gina's 3rd birthday. Dad practices with the camera. Summer at the Wildwood boardwalk. Eric's 9th birthday. Gina and Eric carve pumpkins. Baby Johnny in the hospital.",
     people: ['Mom', 'Dad', 'Eric', 'Gina', 'Gram', 'John'],
+    url: '',
   },
   {
     id: 6,
@@ -65,15 +68,17 @@ const data = [
     thumbnail: thumb6,
     desc: 'Baby Johnny at home.',
     people: ['Mom', 'Dad', 'Eric', 'Gina', 'John'],
+    url: 'https://youtu.be/InbquTx-ySQ',
   },
   {
     id: 7,
-    title: 'December 1998 - April 1989',
+    title: 'December 1988 - April 1989',
     years: ['1988', '1989'],
     length: '01:00:10',
     thumbnail: thumb7,
     desc: "Christmas 1988. Eric, Gina, and Johnny play at home. Gram's 59th birthday. Dad's 30th birthday. Dad opening presents. Easter. ",
     people: ['Mom', 'Dad', 'Eric', 'Gina', 'John'],
+    url: 'https://youtu.be/Rj_JGwcvUDc',
   },
   {
     id: 8,
@@ -83,6 +88,7 @@ const data = [
     thumbnail: thumb8,
     desc: 'Lots of John and Gina. Gina does a hula dance. Dad holds John.',
     people: ['Mom', 'Dad', 'Eric', 'Gina', 'John'],
+    url: 'https://youtu.be/Cq7OZphJQGk',
   },
   {
     id: 9,
@@ -92,6 +98,7 @@ const data = [
     thumbnail: thumb9,
     desc: "Gina's 4th birthday.",
     people: ['Mom', 'Dad', 'Eric', 'Gina', 'John'],
+    url: 'https://youtu.be/vLPmwZZRRCI',
   },
   {
     id: 10,
@@ -101,6 +108,7 @@ const data = [
     thumbnail: thumb10,
     desc: "Eric, Gina, and John at the zoo. Riding the rides at the boardwalk. Eric's 10th birthday. John starts to walk.",
     people: ['Mom', 'Dad', 'Eric', 'Gina', 'John'],
+    url: 'https://youtu.be/ucbWzJw5X9A',
   },
 ];
 

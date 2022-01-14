@@ -19,27 +19,28 @@ function Cards() {
 
   return (
     <>
-      <input
-        type="search"
-        placeholder="Search..."
-        value={searchTerm}
-        onChange={filter}
-        className="input"
-      />
-      <div className="card-container">
+      <div className='searchDiv'>
+        <input
+          type='search'
+          placeholder='Enter a year!'
+          value={searchTerm}
+          onChange={filter}
+          className='input'
+        />
+      </div>
+      <div className='card-container'>
         {foundClips && foundClips.length > 0 ? (
           foundClips.map((clip) => (
-            <div className="card" key={clip.id}>
-              <div className="play">
+            <div className='card' key={clip.id}>
+              <div className='play'>
                 <a href={clip.url}>
-                  <img src={clip.thumbnail} alt="thumbnail" />
+                  <img src={clip.thumbnail} alt='thumbnail' />
                 </a>
               </div>
-              <div className="info">
+              <div className='info'>
                 <h1>{clip.title}</h1>
                 <p>{clip.length}</p>
-                <button className="btn">Description</button>
-                <div className="desc">
+                <div className='desc'>
                   <p>{clip.desc}</p>
                 </div>
               </div>
