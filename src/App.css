@@ -29,6 +29,8 @@ li {
   text-decoration: none;
 }
 
+/* CARDS */
+
 img {
   top: 50%;
   width: 100%;
@@ -60,6 +62,7 @@ img {
 .desc {
   margin-top: 1rem;
 }
+
 @media (max-width: 768px) {
   .card-container {
     flex-direction: column;
