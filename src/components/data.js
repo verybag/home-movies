@@ -8,6 +8,8 @@ import thumb7 from '../images/thumbnails/1988DEC_1989APR.png';
 import thumb8 from '../images/thumbnails/1989APR_1989MAY.png';
 import thumb9 from '../images/thumbnails/1989JULY.png';
 import thumb10 from '../images/thumbnails/1989AUG_1989OCT.png';
+import thumb11 from '../images/thumbnails/1989OCT_1990JAN_2.png';
+import thumb12 from '../images/thumbnails/1990MARCH_1990MAY.png';
 
 const data = [
   {
@@ -109,6 +111,37 @@ const data = [
     desc: "Eric, Gina, and John at the zoo. Riding the rides at the boardwalk. Eric's 10th birthday. John starts to walk.",
     people: ['Mom', 'Dad', 'Eric', 'Gina', 'John'],
     url: 'https://youtu.be/ucbWzJw5X9A',
+  },
+  {
+    id: 11,
+    title: 'October 1989 - January 1990',
+    years: ['1989', '1990'],
+    length: '',
+    thumbnail: thumb11,
+    desc: "Halloween 1989. John's 1st birthday. Thanksgiving 1989. Christmas 1989. Mom & John play. ",
+    people: ['Mom', 'Dad', 'Eric', 'Gina', 'John'],
+    url: 'https://youtu.be/1lwTG8GoT1Q',
+  },
+  {
+    id: 12,
+    title: 'March 1990 - May 1990',
+    years: '1990',
+    length: '',
+    thumbnail: thumb12,
+    desc: "Dad's 31st birthday. Johnny & Gina eat cake. Eric's confirmation at church. DiSanto cousin party. Easter 1990.",
+    people: ['Mom', 'Dad', 'Eric', 'Gina', 'John'],
+    url: '',
+  },
+
+  {
+    id: 13,
+    title: 'June 1990 - Summer 1991',
+    years: ['1990', '1991'],
+    length: '',
+    thumbnail: '',
+    desc: '',
+    people: ['Mom', 'Dad', 'Eric', 'Gina', 'John', 'Mikey'],
+    url: '',
   },
 ];
 

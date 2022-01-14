@@ -99,6 +99,9 @@ li:hover {
 /* MOBILE */
 
 @media (max-width: 768px) {
+  * {
+    font-family: '-apple-system', 'HelveticaNeue';
+  }
   .card-container {
     flex-direction: column;
     min-width: 375px;
