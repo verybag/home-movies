@@ -1,3 +1,4 @@
+import thumb0 from '../images/thumbnails/DADS_MOVIES.png';
 import thumb1 from '../images/thumbnails/1986XMAS_1987MAR7_THUMB.png';
 import thumb2 from '../images/thumbnails/1987MAR_1987JUN17.png';
 import thumb3 from '../images/thumbnails/1987JUNE17_1987DEC22_2.png';
@@ -9,9 +10,23 @@ import thumb8 from '../images/thumbnails/1989APR_1989MAY.png';
 import thumb9 from '../images/thumbnails/1989JULY.png';
 import thumb10 from '../images/thumbnails/1989AUG_1989OCT.png';
 import thumb11 from '../images/thumbnails/1989OCT_1990JAN_2.png';
-import thumb12 from '../images/thumbnails/1990MARCH_1990MAY.png';
+import thumb12 from '../images/thumbnails/1990MARCH_1990MAY_2.png';
+import thumb13 from '../images/thumbnails/1990JUNE_1991SUMMER_2.png';
+import thumb14 from '../images/thumbnails/1991JULY_1991NOV.png';
+import thumb15 from '../images/thumbnails/1991DEC_1992DEC.png';
+import thumb16 from '../images/thumbnails/1993JAN_1993NOV_2.png';
 
 const data = [
+  {
+    id: 0,
+    title: "Dad's Home Movies",
+    years: '',
+    length: '02:04:00',
+    thumbnail: thumb0,
+    desc: `Dad's old family home videos.`,
+    people: '',
+    url: '',
+  },
   {
     id: 1,
     title: 'December 1986 - March 1987',
@@ -116,7 +131,7 @@ const data = [
     id: 11,
     title: 'October 1989 - January 1990',
     years: ['1989', '1990'],
-    length: '',
+    length: '00:56:30',
     thumbnail: thumb11,
     desc: "Halloween 1989. John's 1st birthday. Thanksgiving 1989. Christmas 1989. Mom & John play. ",
     people: ['Mom', 'Dad', 'Eric', 'Gina', 'John'],
@@ -126,9 +141,9 @@ const data = [
     id: 12,
     title: 'March 1990 - May 1990',
     years: '1990',
-    length: '',
+    length: '00:49:53',
     thumbnail: thumb12,
-    desc: "Dad's 31st birthday. Johnny & Gina eat cake. Eric's confirmation at church. DiSanto cousin party. Easter 1990.",
+    desc: "Dad's 31st birthday. Johnny & Gina eat cake. Eric's confirmation at church. DiSanto cousin party. Easter 1990. Gina gets her preschool diploma.",
     people: ['Mom', 'Dad', 'Eric', 'Gina', 'John'],
     url: '',
   },
@@ -137,10 +152,40 @@ const data = [
     id: 13,
     title: 'June 1990 - Summer 1991',
     years: ['1990', '1991'],
-    length: '',
-    thumbnail: '',
-    desc: '',
+    length: '01:47:13',
+    thumbnail: thumb13,
+    desc: "Eric and Dad go fish. Gina's 5th birthday. Gina gets on the bus to go to school. John and Gina ride bikes. Christmas 1990. Baby Mikey comes home. Summer 1991. Mikey takes a sink bath.",
     people: ['Mom', 'Dad', 'Eric', 'Gina', 'John', 'Mikey'],
+    url: '',
+  },
+  {
+    id: 14,
+    title: 'July 1991 - November 1991',
+    years: '1991',
+    length: '02:00:00',
+    thumbnail: thumb14,
+    desc: "July 4th. Gina's 6th birthday. Eric's 12th birthday. Gina turns herself into a smurf. John and Mike take a bath. Johnny rides a bike. Pumpkin carving. Halloween 1991. John's 3rd birthday.",
+    people: ['Mom', 'Dad', 'Eric', 'Gina', 'John', 'Mikey'],
+    url: '',
+  },
+  {
+    id: 15,
+    title: 'December 1991 - December 1992',
+    years: ['1991', '1992'],
+    length: '02:00:00',
+    thumbnail: thumb15,
+    desc: "Christmas 1991. Mikey's 1st birthday. Gram's 62nd. Dad's 33rd. Aunt Helen and Uncle Kevin's first dance. Easter 1992. Gina plays tee-ball. Gina's 7th. Eric's 13th. Halloween. John's 4th. Christmas 1992.",
+    people: ['Mom', 'Dad', 'Eric', 'Gina', 'John', 'Mikey'],
+    url: '',
+  },
+  {
+    id: 16,
+    title: 'January 1993 - November 1993',
+    years: '1993',
+    length: '',
+    thumbnail: thumb16,
+    desc: "Mikey gets a haircut. Mikey's 2nd birthday. Huge snowstorm. Easter 1993. Gina, John, and Mike go fishing. Baby Emily comes home from the hospital. Gina's 8th. Eric's 14th. Halloween. John's 5th.  ",
+    people: ['Mom', 'Dad', 'Eric', 'Gina', 'John', 'Mikey', 'Emily'],
     url: '',
   },
 ];
