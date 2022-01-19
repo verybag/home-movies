@@ -1,10 +1,11 @@
 import React from 'react';
-import Cards from '../components/Cards';
+import Search from '../components/Search';
+import data from '../components/data';
 
 function Home() {
   return (
-    <div className='home-container'>
-      <Cards />
+    <div className="home-container">
+      <Search details={data} />
     </div>
   );
 }

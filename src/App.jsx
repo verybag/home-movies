@@ -14,13 +14,13 @@ function App() {
         <ScrollToTop>
           <Navbar />
           <Switch>
-            <Route exact path='/home-movies/'>
+            <Route exact path="/home-movies/">
               <Home />
             </Route>
-            <Route path='/about'>
+            <Route path="/about">
               <About />
             </Route>
-            <Route path='*'>
+            <Route path="*">
               <Home />
             </Route>
           </Switch>
