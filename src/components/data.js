@@ -1,3 +1,4 @@
+//thumbnails //
 import thumb0 from '../images/thumbnails/DADS_MOVIES.png';
 import thumb1 from '../images/thumbnails/1986XMAS_1987MAR7_THUMB.png';
 import thumb2 from '../images/thumbnails/1987MAR_1987JUN17.png';
@@ -15,6 +16,10 @@ import thumb13 from '../images/thumbnails/1990JUNE_1991SUMMER_2.png';
 import thumb14 from '../images/thumbnails/1991JULY_1991NOV.png';
 import thumb15 from '../images/thumbnails/1991DEC_1992DEC.png';
 import thumb16 from '../images/thumbnails/1993JAN_1993NOV_2.png';
+import thumb17 from '../images/thumbnails/1993NOV_1994JULY.png';
+import thumb18 from '../images/thumbnails/1994AUG_1995JULY.png';
+import thumb19 from '../images/thumbnails/1997MAY_1998MAY_3.png';
+import thumb20 from '../images/thumbnails/1998_GINASTAPE.png';
 
 const data = [
   {
@@ -184,8 +189,48 @@ const data = [
     years: '1993',
     length: '',
     thumbnail: thumb16,
-    desc: "Mikey gets a haircut. Mikey's 2nd birthday. Huge snowstorm. Easter 1993. Gina, John, and Mike go fishing. Baby Emily comes home from the hospital. Gina's 8th. Eric's 14th. Halloween. John's 5th.  ",
+    desc: "Mikey gets a haircut. Mikey's 2nd birthday. Huge snowstorm. Easter 1993. Gina, John, and Mike go fishing. Baby Emily comes home from the hospital. Gina's 8th. Eric's 14th. Halloween. John's 5th.",
     people: ['Mom', 'Dad', 'Eric', 'Gina', 'John', 'Mikey', 'Emily'],
+    url: '',
+  },
+  {
+    id: 17,
+    title: 'November 1993 - July 1994',
+    years: ['1993', '1994'],
+    length: '',
+    thumbnail: thumb17,
+    desc: "John's 5th Birthday (continued). John sings in school. Gina, John, and Mike feed some ducks. Christmas '93. Mikey's 3rd birthday. Easter '94. Barney comes to visit. Surprise party for Aunt Helen. Gina's 9th birthday.",
+    people: ['Mom', 'Dad', 'Eric', 'Gina', 'John', 'Mikey', 'Emily'],
+    url: '',
+  },
+  {
+    id: 18,
+    title: 'August 1994 - July 1995',
+    years: ['1994', '1995'],
+    length: '',
+    thumbnail: thumb18,
+    desc: "Rides at the boardwalk. Eric's 15th birthday. Summer in LBI. Christmas '94. Mikey's 4th birthday. Gram's 65th. Easter '95. Emily's 2nd birthday. Johnny has a school play. Gina's 10th birthday.",
+    people: ['Mom', 'Dad', 'Eric', 'Gina', 'John', 'Mikey', 'Emily'],
+    url: '',
+  },
+  {
+    id: 19,
+    title: 'May 1997 - May 1998',
+    years: ['1997', '1998'],
+    length: '',
+    thumbnail: thumb19,
+    desc: "Playing on the rope swing outside. Mike and John fly a kite. Emily's 4th & 5th birthday. Johnny's 9th birthday. Mike and John ride bikes. Emily sings at school. Christmas '97. Baby Julie in the hospital. Baby Julie at home. Easter '98.",
+    people: ['Mom', 'Dad', 'Eric', 'Gina', 'John', 'Mikey', 'Emily', 'Julie'],
+    url: '',
+  },
+  {
+    id: 20,
+    title: "1998: Gina's tape",
+    years: ['1998'],
+    length: '',
+    thumbnail: thumb20,
+    desc: 'Julie at home. Gina makes a movie.',
+    people: ['Mikey', 'Julie', 'Gina'],
     url: '',
   },
 ];

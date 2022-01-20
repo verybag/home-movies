@@ -64,7 +64,7 @@ li:hover {
   color: hsl(0, 0%, 87%);
   flex-basis: 1;
   box-shadow: 0 0px 3px rgba(0, 0, 0, 1);
-  animation: max-height 1s ease-in-out;
+  animation: max-height 1s ease-out;
 }
 
 .card h1 {
@@ -79,13 +79,13 @@ li:hover {
 
 .card:hover .desc {
   max-height: 1250px;
-  transition: max-height 0.33s ease-in-out;
+  transition: max-height 1s ease-in-out;
 }
 
 .desc {
   overflow: hidden;
   max-height: 0;
-  transition: max-height 0.33s ease-in-out;
+  transition: max-height 1.33s ease-in-out;
   margin-top: 1rem;
   opacity: 60%;
 }
