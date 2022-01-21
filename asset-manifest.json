@@ -1,15 +1,18 @@
 {
   "files": {
-    "main.css": "/home-movies/static/css/main.dda694b0.css",
-    "main.js": "/home-movies/static/js/main.729cc675.js",
+    "main.css": "/home-movies/static/css/main.abcbee76.css",
+    "main.js": "/home-movies/static/js/main.6ae73890.js",
     "static/media/1989OCT_1990JAN_2.png": "/home-movies/static/media/1989OCT_1990JAN_2.b242e698a5b077449aed.png",
     "static/media/1987DEC22.png": "/home-movies/static/media/1987DEC22.ac063081e600c36b07ba.png",
+    "static/media/1994AUG_1995JULY.png": "/home-movies/static/media/1994AUG_1995JULY.a7280055c00077485a9a.png",
+    "static/media/1993NOV_1994JULY.png": "/home-movies/static/media/1993NOV_1994JULY.9a5f4c478c536d8fb669.png",
     "static/media/DADS_MOVIES.png": "/home-movies/static/media/DADS_MOVIES.22e3fbdbf1e504889935.png",
     "static/media/1986XMAS_1987MAR7_THUMB.png": "/home-movies/static/media/1986XMAS_1987MAR7_THUMB.964575e2899ae5cc26b9.png",
     "static/media/1993JAN_1993NOV_2.png": "/home-movies/static/media/1993JAN_1993NOV_2.c1da63e6c4940f93c6b6.png",
     "static/media/1988DEC_1989APR.png": "/home-movies/static/media/1988DEC_1989APR.f8f6ecfa2277f0d49ca4.png",
     "static/media/1990MARCH_1990MAY_2.png": "/home-movies/static/media/1990MARCH_1990MAY_2.575e5edf531cfd2e1c04.png",
     "static/media/1991JULY_1991NOV.png": "/home-movies/static/media/1991JULY_1991NOV.c867848ac74ce9c78045.png",
+    "static/media/1997MAY_1998MAY_3.png": "/home-movies/static/media/1997MAY_1998MAY_3.e0ec6883ea32e7ca646d.png",
     "static/media/1988NOVEMBER.png": "/home-movies/static/media/1988NOVEMBER.138d4073aebd2f03f7e5.png",
     "static/media/1987JUNE17_1987DEC22_2.png": "/home-movies/static/media/1987JUNE17_1987DEC22_2.48bdb15c03eab3d6be5c.png",
     "static/media/1990JUNE_1991SUMMER_2.png": "/home-movies/static/media/1990JUNE_1991SUMMER_2.c602777ba08c868b29f1.png",
@@ -17,14 +20,15 @@
     "static/media/1988JULY20_1988NOV24.png": "/home-movies/static/media/1988JULY20_1988NOV24.e16edd596ccb6ea29536.png",
     "static/media/1989JULY.png": "/home-movies/static/media/1989JULY.5f6ec68c70ce736ef185.png",
     "static/media/1989AUG_1989OCT.png": "/home-movies/static/media/1989AUG_1989OCT.0b94f79a820ff80e0be4.png",
+    "static/media/1998_GINASTAPE.png": "/home-movies/static/media/1998_GINASTAPE.24bad2e4ca689a326b07.png",
     "static/media/1991DEC_1992DEC.png": "/home-movies/static/media/1991DEC_1992DEC.58051dec3317f0eb98b8.png",
     "static/media/1989APR_1989MAY.png": "/home-movies/static/media/1989APR_1989MAY.1c85adcd35df59522fb2.png",
     "index.html": "/home-movies/index.html",
-    "main.dda694b0.css.map": "/home-movies/static/css/main.dda694b0.css.map",
-    "main.729cc675.js.map": "/home-movies/static/js/main.729cc675.js.map"
+    "main.abcbee76.css.map": "/home-movies/static/css/main.abcbee76.css.map",
+    "main.6ae73890.js.map": "/home-movies/static/js/main.6ae73890.js.map"
   },
   "entrypoints": [
-    "static/css/main.dda694b0.css",
-    "static/js/main.729cc675.js"
+    "static/css/main.abcbee76.css",
+    "static/js/main.6ae73890.js"
   ]
 }
