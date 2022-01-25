@@ -101,7 +101,7 @@ const data = [
     thumbnail: thumb6,
     desc: 'Baby Johnny at home.',
     people: ['Mom', 'Dad', 'Eric', 'Gina', 'John'],
-    url: 'https://youtu.be/InbquTx-ySQ',
+    url: 'https://youtu.be/PU3i9723Il8',
   },
   {
     id: 7,
