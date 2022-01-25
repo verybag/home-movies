@@ -252,7 +252,7 @@ const data = [
     thumbnail: thumb21,
     desc: '1999 through the eyes of Gina.',
     people: ['Gina'],
-    url: 'https://youtu.be/7G2MUW-wSuI',
+    url: 'https://youtu.be/FoLfsHt09Kc',
   },
   {
     id: 22,
@@ -262,7 +262,7 @@ const data = [
     thumbnail: thumb22,
     desc: "Easter 1999. Julie goes down a slide. Emily's 6th birthday. Mikey plays baseball. Emily dances at school. The kids at the beach. Mike, John, and Emily (and Toby) play in the pool outside. Emily and Julie feed the chickens. 'The Gina Witch Project'. We get deer. Dad and Julie ride four-wheelers. Toby finds a groundhog.",
     people: ['Mom', 'Dad', 'Eric', 'Gina', 'John', 'Mikey', 'Emily', 'Julie'],
-    url: 'https://youtu.be/7G2MUW-wSuI',
+    url: 'https://youtu.be/cWyZ_v_h-7U',
   },
   {
     id: 23,
