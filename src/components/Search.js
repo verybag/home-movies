@@ -22,12 +22,16 @@ function Search({ details }) {
   }
   return (
     <>
-      <div className="search">
-        <input
-          type="search"
-          placeholder="Search..."
-          onChange={handleChange}
-        />
+      <div className='container'>
+        <div className='search'>
+          <input
+            type='search'
+            placeholder='Search...'
+            pattern='.*\S.*'
+            required
+            onChange={handleChange}
+          />
+        </div>
       </div>
       {searchList()}
     </>

@@ -4,10 +4,7 @@ import { Link } from 'react-router-dom';
 function Error() {
   return (
     <div>
-      <p>
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Excepturi,
-        nisi.
-      </p>
+      <p>Something's not right here!</p>
       <Link to='/'>
         <button>Go Back</button>
       </Link>

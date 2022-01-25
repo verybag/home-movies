@@ -20,6 +20,17 @@ import thumb17 from '../images/thumbnails/1993NOV_1994JULY.png';
 import thumb18 from '../images/thumbnails/1994AUG_1995JULY.png';
 import thumb19 from '../images/thumbnails/1997MAY_1998MAY_3.png';
 import thumb20 from '../images/thumbnails/1998_GINASTAPE.png';
+import thumb21 from '../images/thumbnails/1999_GINA_TAPE.png';
+import thumb22 from '../images/thumbnails/1999APR_1999SEP_3.png';
+import thumb23 from '../images/thumbnails/1999OCT_2000JAN.png';
+import thumb24 from '../images/thumbnails/2000.png';
+import thumb25 from '../images/thumbnails/2000DECEMBER_2001MAY.png';
+import thumb26 from '../images/thumbnails/2001JULY_2002JAN.png';
+import thumb27 from '../images/thumbnails/2002_MIKE.png';
+import thumb28 from '../images/thumbnails/2002MAR_2002DEC.png';
+import thumb29 from '../images/thumbnails/2003FEB_2005SUMMER.png';
+import thumb30 from '../images/thumbnails/2003_MIKE.png';
+import thumb31 from '../images/thumbnails/2003_JOHN.png';
 
 const data = [
   {
@@ -30,7 +41,7 @@ const data = [
     thumbnail: thumb0,
     desc: `Dad's old family home videos.`,
     people: '',
-    url: '',
+    url: 'https://youtu.be/_x9AJA2kBLc',
   },
   {
     id: 1,
@@ -80,7 +91,7 @@ const data = [
     thumbnail: thumb5,
     desc: "Gina's 3rd birthday. Dad practices with the camera. Summer at the Wildwood boardwalk. Eric's 9th birthday. Gina and Eric carve pumpkins. Baby Johnny in the hospital.",
     people: ['Mom', 'Dad', 'Eric', 'Gina', 'Gram', 'John'],
-    url: '',
+    url: 'https://youtu.be/lVXeujY5Lx4',
   },
   {
     id: 6,
@@ -232,6 +243,116 @@ const data = [
     desc: 'Julie at home. Gina makes a movie.',
     people: ['Mikey', 'Julie', 'Gina'],
     url: 'https://youtu.be/7G2MUW-wSuI',
+  },
+  {
+    id: 21,
+    title: "1999: Gina's tape",
+    years: '1999',
+    length: '00:20:16',
+    thumbnail: thumb21,
+    desc: '1999 through the eyes of Gina.',
+    people: ['Gina'],
+    url: 'https://youtu.be/7G2MUW-wSuI',
+  },
+  {
+    id: 22,
+    title: 'April 1999 - September 1999',
+    years: '1999',
+    length: '01:40:47',
+    thumbnail: thumb22,
+    desc: "Easter 1999. Julie goes down a slide. Emily's 6th birthday. Mikey plays baseball. Emily dances at school. The kids at the beach. Mike, John, and Emily (and Toby) play in the pool outside. Emily and Julie feed the chickens. 'The Gina Witch Project'. We get deer. Dad and Julie ride four-wheelers. Toby finds a groundhog.",
+    people: ['Mom', 'Dad', 'Eric', 'Gina', 'John', 'Mikey', 'Emily', 'Julie'],
+    url: 'https://youtu.be/7G2MUW-wSuI',
+  },
+  {
+    id: 23,
+    title: 'October 1999 - January 2000',
+    years: ['1999', '2000'],
+    length: '2:01:52',
+    thumbnail: thumb23,
+    desc: "Halloween 1999. John's 11th birthday. Mikey in a school play. John in the Bell Choir at school. The kids play in the house. Christmas '99. Julie's 2nd birthday. Mikey's 9th birthday. ",
+    people: ['Mom', 'Dad', 'Eric', 'Gina', 'John', 'Mikey', 'Emily', 'Julie'],
+    url: 'https://youtu.be/RrYF_pJN5I4',
+  },
+  {
+    id: 24,
+    title: '2000',
+    years: '2000',
+    length: '01:13:12',
+    thumbnail: thumb24,
+    desc: "Gram's 70th birthday. Julie wears a wig. Julie and Emily hold the peeps. Dad & Emily watch a pheasant. Easter 2000. Emily's 7th. Julie and Emily play in the living room. Gina's 15th. Toby finds a groundhog in the mud. Emily takes a tour. The kids go to Crystal Cave. Eric's 21st. [Tape has some significant damage toward the end] ",
+    people: ['Mom', 'Dad', 'Eric', 'Gina', 'John', 'Mikey', 'Emily', 'Julie'],
+    url: 'https://www.youtube.com/watch?v=gqWXacrYhEM',
+  },
+  {
+    id: 25,
+    title: 'December 2000 - May 2001',
+    years: ['2000', '2001'],
+    length: '02:01:10',
+    thumbnail: thumb25,
+    desc: "Christmas 2000. Julie's 3rd birthday. Mikey's 10th. John takes a bunch of pictures of everybody. Easter 2001. Emily plays in the yard. Emily and Julie close up the chickens with Dad.",
+    people: ['Mom', 'Dad', 'Eric', 'Gina', 'John', 'Mikey', 'Emily', 'Julie'],
+    url: 'https://youtu.be/V5tiSOjvc2Y',
+  },
+  {
+    id: 26,
+    title: 'July 2001 - January 2002',
+    years: ['2001', '2002'],
+    length: '01:56:47',
+    thumbnail: thumb26,
+    desc: "Emily in the yard. Dad goes hunting. Mike and John film a chicken getting eaten for some reason. Halloween 2001. Emily sings at school. Some Oak Ridge Elementary videos. Christmas 2001. Emily gets Pooch. The kids play in the snow. Julie's 4th birthday.",
+    people: ['Mom', 'Dad', 'Eric', 'Gina', 'John', 'Mikey', 'Emily', 'Julie'],
+    url: 'https://youtu.be/V-XWe3BG-UU',
+  },
+  {
+    id: 27,
+    title: "2002: 'Mike's Tape'",
+    years: '2002',
+    length: '01:55:08',
+    thumbnail: thumb27,
+    desc: '2002. Mostly Mikey and his friends playing video games.',
+    people: ['Mike'],
+    url: 'https://youtu.be/5ZCDkP5tYsY',
+  },
+  {
+    id: 28,
+    title: 'March 2002 - December 2002',
+    years: '2002',
+    length: '02:00:29',
+    thumbnail: thumb28,
+    desc: "Easter 2002. Johnny films a bunch. Lots of photos. Mikey in Bell Choir. Everybody eats breakfast. Emily's 9th birthday. Bike race goes past the house. Toby terrorizes a squirrel. Emily and Julie sing in school. Christmas 2002. ",
+    people: ['Mom', 'Dad', 'Eric', 'Gina', 'John', 'Mikey', 'Emily', 'Julie'],
+    url: 'https://youtu.be/hYNRRXMLxWY',
+  },
+  {
+    id: 29,
+    title: 'February 2003 - Summer 2005',
+    years: ['2003', '2005'],
+    length: '01:23:03',
+    thumbnail: thumb29,
+    desc: "Emily in lip sync. Easter 2003. Julie at school. Christmas 2003. Julie's 6th birthday. Julie performs in some Earth day concert at school. Easter 2004. Christmas 2004. Julie's 7th birthday. Julie goes on a house tour.",
+    people: ['Mom', 'Dad', 'Eric', 'Gina', 'John', 'Mikey', 'Emily', 'Julie'],
+    url: 'https://youtu.be/dfKxbN8pS-k',
+  },
+  {
+    id: 30,
+    title: "2003: 'Mike's Tape'",
+    years: '2003',
+    length: '01:12:29',
+    thumbnail: thumb30,
+    desc: '2003. Mikey and his friends hang out.',
+    people: ['Mikey'],
+    url: 'https://youtu.be/2LojT6blMtE',
+  },
+  {
+    id: 31,
+    title: "2003: 'John's Tape'",
+    years: '2003',
+    length: '00:18:40',
+    thumbnail: thumb31,
+    desc: '2003 through the eyes of John.',
+    people: ['John'],
+    url: 'https://youtu.be/g5RT6uk2hTg',
   },
 ];
 
