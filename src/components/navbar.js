@@ -6,7 +6,7 @@ function navbar() {
     <nav className='navbar'>
       <div>
         <ul>
-          <Link to='/' style={{ textDecoration: 'none' }}>
+          <Link to='/home-movies' style={{ textDecoration: 'none' }}>
             <li className='link'>Home</li>
           </Link>
           <Link to='/about' style={{ textDecoration: 'none' }}>
